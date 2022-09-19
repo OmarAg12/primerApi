@@ -6,8 +6,6 @@ function consultID() {
   id= textElement1.value;
   fetch(`https://rickandmortyapi.com/api/character/${id}`)
   .then(res => res.json())
-  //.then(texto => imagen.src = texto.image)
-
   .then(data =>{
     let element = document.getElementById('personaje')
     element.innerHTML= `<p>${data.name}</p> 
