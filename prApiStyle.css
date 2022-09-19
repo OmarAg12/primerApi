@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+
+h1:hover{
+    font-size: 50px;
+    color: greenyellow;
+}
+#pregunta{
+    font-size: 25px ;
+    color: orange
+}
