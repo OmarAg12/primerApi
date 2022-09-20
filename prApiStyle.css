@@ -1,13 +1,14 @@
 body{
-    background-color: rgb(122, 16, 122)  ;
-    background-image:  url();
-}
+    background-color: beige;    
 
-h2:hover{
-    font-size: 50px;
-    color: greenyellow;
 }
-#pregunta{
-    font-size: 25px ;
-    color: orange
+.preguntas{
+    font-size: 5em;
+    color: blue;
+    text-align: center;
+
+}
+h1:hover{
+    font-size: 6em;
+    color: greenyellow;
 }
