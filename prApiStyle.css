@@ -1,9 +1,9 @@
 body{
-    background-color: gray  ;
+    background-color: rgb(122, 16, 122)  ;
     background-image:  url();
 }
 
-h1:hover{
+h2:hover{
     font-size: 50px;
     color: greenyellow;
 }
